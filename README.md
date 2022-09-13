@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohamed Taher Kahri
-- 👀 I’m interested in machine learning and Android development
-- 🌱 I’m currently learning Machine Learning android development
-- 💞️ I’m looking for an internship 
+- 👀 I’m interested in web and Android development
+- 🌱 I’m currently learning Spring Boot and Angular
+- 💞️ I’m looking for an end of study internship 
 - 📫 How to reach me : email ✉️ : kahrimedtaher@gmail.com
 
 <!---
